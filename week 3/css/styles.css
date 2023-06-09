@@ -19,14 +19,14 @@ body {
   background: url('../images/restaurant-logo_large.png') no-repeat;
   width: 160px;
   height: 160px;
-  margin: 0px 30px 20px 30px;
+  margin: 20px 30px 20px 30px;
   padding: 10px 0px 0px 0px;
   
 }
 
 .navbar-brand {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 25px;
+  
 }
 
 .navbar-brand h1 { /* Restaurant name */
