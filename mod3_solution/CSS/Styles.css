@@ -1,0 +1,32 @@
+body{
+	font-family: 'Arial', sans-serif;
+	color: #12656E;
+	background-color: #F8efd7;
+	border:0;
+	box-sizing: border-box;
+}
+/**header*/
+#header-nav {
+	background-color: #002f01;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand{
+	padding-top: 15px;
+}
+.navbar-brand h1{
+color: #fff;
+font-size: 2em;
+font-weight: bold;
+text-shadow: 1px 1px 1px #12656E;
+margin-top: 0;
+margin-bottom: 0;
+line-height: .75;
+}
+.menu-item	{
+	background-color: #D1FFD7;
+}
+.menu-item span h3{
+	background-color: #12656E;
+	color: #fff;
+}
