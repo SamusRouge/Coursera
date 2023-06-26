@@ -25,8 +25,23 @@ line-height: .75;
 }
 .menu-item	{
 	background-color: #D1FFD7;
+
 }
 .menu-item span h3{
 	background-color: #12656E;
 	color: #fff;
+}
+
+.menu-item span p{
+	padding: 10px 10px 10px 10px ;
+}
+#nav-list{
+	background-color: #6cd6b4;
+	margin-top: 0;
+	margin-bottom: 0;
+	box-sizing: border-box;
+}
+
+#nav-list li{
+	border: 1px solid gray;
 }
