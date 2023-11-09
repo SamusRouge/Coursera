@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## HTML, CSS y Javascript for web developers 
 
-You can use the [editor on GitHub](https://github.com/SamusRouge/Coursera/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Site made as a follow up and notes and a collection of tasks done a reviewed in coursera HTML, CSS y Javascript for web developers. It contaisn my own asnwers to every module task
 
 ### Markdown
 
