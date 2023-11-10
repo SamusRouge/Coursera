@@ -5,7 +5,7 @@ Site made as a follow up and notes and a collection of tasks done a reviewed in 
 
 ### Notes 
 [Module 2](https://samusrouge.github.io/Coursera/site) 
-[Module 3](https://samusrouge.github.io/Coursera/w3) 
+[Module 3](https://samusrouge.github.io/Coursera/week%203) 
 
 ### Solutions
 [Module 3](https://samusrouge.github.io/Coursera/mod3_solution/index.html)
